@@ -1,0 +1,13 @@
+PreLoader
+BG On Scroll
+Back To Top
+Venobox / Lightbox / Magnifying popup
+CountDown
+CounterUp
+Mixitup
+
+Animation CSS
+Wow Js / AOS / Scroller Js
+Slider -> Swiper Js / Slick / OWL Carasol
+
+Particle
